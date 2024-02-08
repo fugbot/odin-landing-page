@@ -121,3 +121,59 @@ button.placeholder {
     width: 150px;
     border-radius: 8px;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 120px;
+}
+
+.author {
+    text-align: right;
+    font-size: 26px;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.cta {
+    background-color: #3882F6;
+    color: white;
+    margin: 50px;
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;;
+    padding: 20px 60px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.cta-text {
+    padding: 30px;   
+}
+
+.call {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.cta button {
+    color: white;
+    border: 2px solid white;
+    height: 40px;
+    width: 120px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    align-self: center;
+    font-size: 18px;
+}
+
+.footer {
+    color: #F9FAF8;
+    padding: 30px;
+    justify-content: center;
+    display: flex;
+
+}
